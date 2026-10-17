@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed
+
+1. **DeMerlis, A.**, Coauthor, B., & Coauthor, C. (Year). Title of the paper. *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/)
+
+## In preparation
+
+1. **DeMerlis, A.**, et al. Title of the manuscript.

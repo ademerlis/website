@@ -1,0 +1,14 @@
+---
+title: "Contact"
+---
+
+The best way to reach me is by email: [allyson.demerlis@gmail.com](mailto:allyson.demerlis@gmail.com)
+
+**Mailing address**\
+Rosenstiel School of Marine, Atmospheric, and Earth Science\
+University of Miami\
+4600 Rickenbacker Causeway\
+Miami, FL 33149
+
+[<i class="bi bi-github"></i> GitHub](https://github.com/ademerlis){.btn .btn-outline-primary}
+[<i class="bi bi-journal-text"></i> Lab Notebook](https://ademerlis.github.io){.btn .btn-outline-primary}

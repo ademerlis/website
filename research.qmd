@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+## Coral responses to rising ocean temperatures
+
+Describe your dissertation research here: the question, the system, and the approach.
+
+## Gene expression in reef-building corals
+
+Describe your RNA-seq and transcriptomics work here.
+
+## Baited remote underwater video (CBRUVS)
+
+Describe the CBRUVS project here.

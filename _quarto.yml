@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - assets/
+
+website:
+  title: "Allyson DeMerlis"
+  site-url: https://allysondemerlis.com
+  navbar:
+    left:
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: Curriculum Vitae
+      - href: https://ademerlis.github.io
+        text: Lab Notebook
+      - href: contact.qmd
+        text: Contact
+    tools:
+      - icon: envelope
+        href: mailto:allyson.demerlis@gmail.com
+      - icon: github
+        href: https://github.com/ademerlis
+  page-footer:
+    left: "© 2026 Allyson DeMerlis · Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/ademerlis
+      - text: Contact
+        href: contact.qmd
+
+format:
+  html:
+    theme: [flatly, styles.scss]
+    toc: false

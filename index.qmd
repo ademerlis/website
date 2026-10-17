@@ -1,0 +1,38 @@
+---
+pagetitle: "Allyson DeMerlis"
+page-layout: full
+body-classes: home
+---
+
+```{=html}
+<div class="bg-video">
+  <video class="bg-video__media" autoplay muted loop playsinline poster="assets/video/bg.jpg">
+    <source src="assets/video/bg.mp4" type="video/mp4">
+  </video>
+</div>
+```
+
+::: {.hero-card}
+
+::: {.headshot}
+AD
+:::
+
+# Allyson DeMerlis
+
+::: {.tagline}
+Marine Biologist · PhD Candidate
+:::
+
+Welcome! I am a marine biologist passionate about the resilience of reef-building corals in the face of anthropogenically induced climate change, mainly rising ocean temperatures. I study how corals respond to heat stress using transcriptomics, the study of gene expression patterns using bioinformatics.
+
+I'm a PhD student at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science. I'm committed to open science: my code lives on [GitHub](https://github.com/ademerlis), and I keep a running [online lab notebook](https://ademerlis.github.io) of my analyses.
+
+::: {.link-buttons}
+[<i class="bi bi-github"></i> GitHub](https://github.com/ademerlis){.btn}
+[<i class="bi bi-journal-text"></i> Notebook](https://ademerlis.github.io){.btn}
+[<i class="bi bi-file-earmark-person"></i> CV](cv.qmd){.btn}
+[<i class="bi bi-envelope"></i> Email](mailto:allyson.demerlis@gmail.com){.btn}
+:::
+
+:::
