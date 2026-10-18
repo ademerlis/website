@@ -1,0 +1,97 @@
+---
+title: "Resources"
+subtitle: "Links I've found helpful for grad school, coding, and job searching"
+---
+
+::: {.panel-tabset}
+
+## Grad School
+
+As someone who went through this process myself, I know how confusing, daunting, and overwhelming the graduate school application process can be. I have compiled the resources I used when reaching out to potential advisors, writing cover letters, and looking at different programs, in the hopes that these may help you, too. Thankfully, there are a lot of opportunities out there. The challenging part is finding the right one for you!
+
+### Allyson's Guide to Grad School
+
+- Search your research topics of interest on Google Scholar and ResearchGate (e.g., "coral restoration"). Go through recent articles and look at the authors. Start there with your advisor search!
+- Look at potential advisors' websites before contacting them to see if they are taking students that year, or if they require anything specific in your intro email.
+- Don't be afraid to ask potential advisors questions about funding.
+- Talk to students in their labs to learn about their advisor's mentoring style, as well as how they like their school.
+- Have informational interviews with people. Use social networking to your advantage!
+- [How to contact a potential PhD supervisor](https://conservationbytes.com/2015/04/01/how-to-contact-a-potential-phd-supervisor/)
+
+### Graduate school fellowships
+
+One major question for a lot of grad school hopefuls is funding. Here are some funded fellowships; I also recommend looking at schools you are interested in and seeing which fellowships and external funding opportunities they recommend.
+
+- [NOAA Sea Grant Graduate Fellowships](https://www.seagrant.noaa.gov/graduate-fellowships)
+- [American Association of University Women (AAUW) Educational Funding and Awards](https://www.aauw.org/what-we-do/educational-funding-and-awards/)
+- [National Science Foundation Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org/)
+
+### Once you're in grad school…
+
+Navigating grad school, especially if you don't have any friends or family who have gone the academia route, is very challenging. There is a lot to learn about the culture and expectations of an academic research institution, and each school has a different atmosphere. That being said, there is one thing that I think all graduate students across disciplines share: they have a primary advisor/mentor/principal investigator that they report to. This person is likely the one who funded your graduate position, and so in effect they are your boss. But at the same time, they are not your boss, because your degree should be driven and mainly dictated by YOU as a student. These nuances make it difficult for us as graduate students to advocate for ourselves, and also to know exactly when and how we can voice our opinions and make our own decisions.
+
+One thing that I wish I had done with my advisors at the beginning of graduate school was to explicitly discuss and write out our expectations. This means from my advisors I would like to know what is expected of me on a daily, weekly, monthly, and annual basis. From my perspective, I want to tell my advisors what I expect of them, e.g., I expect them to review my proposals, manuscripts, and other relevant papers and provide critical feedback that will help me improve my writing.
+
+A [worksheet on expectations of research supervision](https://x.com/ithinkwellHugh/status/1503642253935484928) would be a great exercise to do with your advisors. It facilitates discussions about expectations in a clear way early on in your graduate studies, and provides a road map for you as a student to know when you can go to your advisor for help, and when you're expected to figure things out yourself.
+
+## Coding
+
+Not only is coding challenging, but it requires a steep learning curve to get comfortable with. However, it is also an essential part of research nowadays, at the very least using statistical software or a data visualization tool. Here are links to workshops, tutorials, videos, and more that I found while learning these programs and languages in grad school. I hope these may be of help to you. You can also follow along with my own learning in my [online lab notebook](https://ademerlis.github.io).
+
+### Introduction to coding
+
+- [Software Carpentry](https://software-carpentry.org/): workshops specifically for teaching research computing
+- [Data Carpentry](https://datacarpentry.org/): workshops for data-driven research
+
+### Introduction to R
+
+**Online courses and workshops**
+
+- [RStudio resources for beginners](https://education.rstudio.com/learn/beginner/)
+- [swirl: learn R, in R!](https://swirlstats.com/) An interactive tutorial; I HIGHLY RECOMMEND it.
+- [StatQuest](https://statquest.org/video-index/) for all things statistical analyses AND DNA/RNA sequencing. What a pro!
+- [Coursera: R Programming](https://www.coursera.org/learn/r-programming), a free online course
+- ["25 Days of R"](https://kiirstio.wixsite.com/kowen/post/the-25-days-of-christmas-an-r-advent-calendar), a fun R advent calendar for an intro
+- [R Markdown tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown/) from Coding Club
+- Interactive "learnr" tutorials: [filter()](https://learnr-examples.shinyapps.io/ex-data-filter/) and [summarise()](https://learnr-examples.shinyapps.io/ex-data-summarise/)
+
+**Free books**
+
+- [*Fundamentals of Data Visualization*](https://clauswilke.com/dataviz/) by Claus Wilke
+- [*R for Data Science*](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+- [Coding Club](https://ourcodingclub.github.io/): an amazing resource with step-by-step R code for tidying data and data visualization
+
+### DNA/RNA sequencing
+
+**Articles**
+
+- [How next-generation sequencing works](https://www.illumina.com/science/technology/next-generation-sequencing/beginners/ngs-workflow.html) (Illumina)
+
+**Workshops**
+
+- [Data Wrangling and Processing for Genomics](https://datacarpentry.org/wrangling-genomics/) (Data Carpentry). Requires knowledge of bash and the terminal; covers assessing read quality of FASTQ files, trimming and filtering sequences, and variant calling.
+- [Harvard Chan Bioinformatics Core: Differential Gene Expression workshop](https://github.com/hbctraining/DGE_workshop/tree/master/lessons)
+- [Harvard Chan Bioinformatics Core: RNA-seq data analysis workshop](https://github.com/hbctraining/Intro-to-rnaseq-hpc-O2). Covers the shell, vim, quality assessment, alignment with STAR, generating a counts matrix, MultiQC, and Salmon.
+- [Differential expression analysis code](https://github.com/mistrm82/msu_ngs2015/blob/master/hands-on.Rmd) comparing DESeq2, edgeR, and limma, with a [YouTube walkthrough](https://www.youtube.com/watch?v=7UKMU5HK380) of the entire code
+
+**YouTube videos**
+
+- [Beginner's Guide to RNA-Seq](https://www.youtube.com/watch?v=8lAVfKbRK3I) webinar
+- [Canadian Bioinformatics Workshop on RNA Sequencing](https://www.youtube.com/watch?v=Ji9nFCYl7Bk)
+- [RNA-seq results explained](https://www.youtube.com/watch?v=9Xo1HU_H828)
+
+## Jobs
+
+### Job boards
+
+- [Ecological Society of America job sites list](https://www.esa.org/nextgencareers/resources/job-sites)
+- [Florida Fish and Wildlife Conservation Commission](https://jobs.myflorida.com/go/Fish-and-Wildlife-Conservation-Commission/2817800/)
+- [Oak Ridge Institute for Science and Education (ORISE)](https://orise.orau.gov/internships-fellowships/recent-graduates.html)
+- [FedConnect](https://www.fedconnect.net/FedConnect/PublicPages/PublicSearch/Public_Opportunities.aspx): government job opportunities
+
+### Email lists
+
+- [Coral-List](https://coral.aoml.noaa.gov/mailman/listinfo/coral-list/): lots of grad school positions and coral-related jobs are shared here.
+- ECOLOG-L, an email list run by the Ecological Society of America
+
+:::

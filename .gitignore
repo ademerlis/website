@@ -6,3 +6,5 @@
 **/*.quarto_ipynb
 assets/profilepicture.jpg
 assets/*.docx
+assets/research/current/*.JPG
+assets/research/current/*.png

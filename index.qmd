@@ -20,7 +20,7 @@ body-classes: home
 # Allyson DeMerlis, PhD
 
 ::: {.tagline}
-Coral Reef Molecular Ecologist · Assistant Scientist
+Coral Reef Molecular Ecologist
 :::
 
 Welcome! I'm a marine biologist working to help coral reefs survive a changing ocean. I am an Assistant Scientist in [Dr. Diego Lirman](https://rescueareef.earth.miami.edu/)'s lab at the University of Miami Rosenstiel School, where I study coral resilience to environmental stress to improve the efficacy of restoration efforts.

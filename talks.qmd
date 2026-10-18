@@ -1,0 +1,58 @@
+---
+title: "Talks"
+subtitle: "Recorded talks and presentations"
+---
+
+:::: {.pub-grid .column-page}
+
+::: {.pub .pub-featured}
+::: {.talk-video}
+{{< video https://www.youtube.com/watch?v=EubVTWrQ-Zc title="Allyson DeMerlis PhD Dissertation Defense" >}}
+:::
+
+::: {.pub-text}
+::: {.pub-meta}
+University of Miami Rosenstiel School · May 7, 2024
+:::
+
+::: {.pub-title}
+[PhD Dissertation Defense: Molecular mechanisms of enhancing coral resilience to thermal stress](https://www.youtube.com/watch?v=EubVTWrQ-Zc)
+:::
+:::
+:::
+
+::: {.pub}
+::: {.talk-video}
+{{< video https://www.youtube.com/watch?v=q3KZIBrpSzk title="Why Are Corals Important? with Allyson DeMerlis" >}}
+:::
+
+::: {.pub-text}
+::: {.pub-meta}
+NOAA AOML
+:::
+
+::: {.pub-title}
+[Why Are Corals Important?](https://www.youtube.com/watch?v=q3KZIBrpSzk)
+:::
+:::
+:::
+
+::: {.pub}
+::: {.talk-video}
+{{< video https://www.youtube.com/watch?v=nMqoImMg1hA title="Connections in Corals and Climate Change" >}}
+:::
+
+::: {.pub-text}
+::: {.pub-meta}
+University of Miami Rosenstiel School · October 7, 2020
+:::
+
+::: {.pub-title}
+[Connections in Corals and Climate Change](https://www.youtube.com/watch?v=nMqoImMg1hA)
+:::
+:::
+:::
+
+::::
+
+[<i class="bi bi-youtube"></i> More on my YouTube channel](https://www.youtube.com/@dr_ocean_ally){.btn .btn-outline-primary}

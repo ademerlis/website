@@ -1,0 +1,388 @@
+---
+title: "Photography"
+lightbox: true
+---
+
+Ever since I became open-water certified in February 2018 in Hawai'i, I've been fascinated with scuba diving and underwater photography. I started with a GoPro 4 and now use a GoPro HERO 7.
+
+[<i class="bi bi-camera"></i> More photos on Flickr](https://www.flickr.com/photos/ademerlis/){.btn .btn-outline-primary}
+
+::: {.panel-tabset .column-page}
+
+## Corals Close-Up
+
+I took these photos using a dissecting microscope, either through the eyepiece or with an image-capturing program. Most of the corals pictured are juveniles (less than 1 year old). Photos taken at Mote Marine Laboratory and in the Cnidimmunity Lab at the University of Miami. Click a photo to see the species name. [Learn about coral anatomy](https://oceanservice.noaa.gov/education/tutorial_corals/coral01_intro.html).
+
+::: {.photo-grid}
+
+![](assets/photos/closeup/closeup-01.jpg){group="closeup" loading="lazy" description="*Pocillopora damicornis* (a Pacific coral)" fig-alt="Pocillopora damicornis (a Pacific coral)"}
+
+![](assets/photos/closeup/closeup-02.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-03.jpg){group="closeup" loading="lazy" description="*Orbicella faveolata* (Mountainous star coral)" fig-alt="Orbicella faveolata (Mountainous star coral)"}
+
+![](assets/photos/closeup/closeup-04.jpg){group="closeup" loading="lazy" description="*Orbicella faveolata* (Mountainous star coral)" fig-alt="Orbicella faveolata (Mountainous star coral)"}
+
+![](assets/photos/closeup/closeup-05.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral) This picture depicts two juvenile corals that settled next to each other. This ridge is the two distinct genetic entities competing for space with each other, and recognizing their non-selves!" fig-alt="Acropora cervicornis (staghorn coral) This picture depicts two juvenile corals that settled next to each other. This ridge is the two distinct genetic entities competing for space with each other, and recognizing their non-selves!"}
+
+![](assets/photos/closeup/closeup-06.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-07.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-08.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-09.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-10.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-11.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-12.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-13.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-14.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-15.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). You can see signs of stress in the center where there are white striations in the coral tissue. The coral's mesenterial filaments (stomach lining) are protruding, which is usually a sign of stress." fig-alt="Acropora cervicornis (staghorn coral). You can see signs of stress in the center where there are white striations in the coral tissue. The coral's mesenterial filaments (stomach lining) are protruding, which is usually a sign of stress."}
+
+![](assets/photos/closeup/closeup-16.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). A close-up of the mesenterial filaments emerging from the tips of the coral's tentacles. This filaments are also used for feeding and defense." fig-alt="Acropora cervicornis (staghorn coral). A close-up of the mesenterial filaments emerging from the tips of the coral's tentacles. This filaments are also used for feeding and defense."}
+
+![](assets/photos/closeup/closeup-17.jpg){group="closeup" loading="lazy" description="*Porites astreoides* (Mustard hill coral). There are several juvenile corals that have settled here on crustose coraline algae (CCA, in purple), which is a positive settlement cue for the corals. At the bottom of the picture you can see a larger coral growing over top of a smaller coral. Another recognition of non-self and competition for space!" fig-alt="Porites astreoides (Mustard hill coral). There are several juvenile corals that have settled here on crustose coraline algae (CCA, in purple), which is a positive settlement cue for the corals. At the bottom of the picture you can see a larger coral growing over top of a smaller coral. Another recognition of non-self and competition for space!"}
+
+![](assets/photos/closeup/closeup-18.jpg){group="closeup" loading="lazy" description="*Porites astreoides* (Mustard hill coral). One coral juvenile with its central polyp (mouth in green), and growing tiny polyps circling it." fig-alt="Porites astreoides (Mustard hill coral). One coral juvenile with its central polyp (mouth in green), and growing tiny polyps circling it."}
+
+![](assets/photos/closeup/closeup-19.jpg){group="closeup" loading="lazy" description="*Porites astreoides* (Mustard hill coral). These juvenile corals are also distinct genetic entities, but are actually fusing together instead of competing for space! Researchers are still trying to understand why this occurs for some corals and not others. Google" fig-alt="Porites astreoides (Mustard hill coral). These juvenile corals are also distinct genetic entities, but are actually fusing together instead of competing for space! Researchers are still trying to understand why this occurs for some corals and not others. Google"}
+
+![](assets/photos/closeup/closeup-20.jpg){group="closeup" loading="lazy" description="*Porites astreoides* (Mustard hill coral). Two juvenile corals competing for space as they grow." fig-alt="Porites astreoides (Mustard hill coral). Two juvenile corals competing for space as they grow."}
+
+![](assets/photos/closeup/closeup-21.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). This is a juvenile coral right after being micro-fragmented. Micro-fragmentation is a restoration technique designed by Mote Marine Laboratory's Dr. David Vaughan." fig-alt="Acropora cervicornis (staghorn coral). This is a juvenile coral right after being micro-fragmented. Micro-fragmentation is a restoration technique designed by Mote Marine Laboratory's Dr. David Vaughan."}
+
+![](assets/photos/closeup/closeup-22.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). You can see the freshly cut coral tissue along the white line." fig-alt="Acropora cervicornis (staghorn coral). You can see the freshly cut coral tissue along the white line."}
+
+![](assets/photos/closeup/closeup-23.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). This coral fragment, days after being micro-fragmented, got really stressed and started sloughing, or releasing, its tissue. We are not sure why this happened to this fragment and not others - it was clearly stressed out." fig-alt="Acropora cervicornis (staghorn coral). This coral fragment, days after being micro-fragmented, got really stressed and started sloughing, or releasing, its tissue. We are not sure why this happened to this fragment and not others - it was clearly stressed out."}
+
+![](assets/photos/closeup/closeup-24.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). Another close-up of the tissue sloughing; it is interesting to me to see the connectedness of the tentacles and tissue layer, with the white calcified skeleton underneath." fig-alt="Acropora cervicornis (staghorn coral). Another close-up of the tissue sloughing; it is interesting to me to see the connectedness of the tentacles and tissue layer, with the white calcified skeleton underneath."}
+
+![](assets/photos/closeup/closeup-25.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-26.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). A top-down view of that same coral fragment after the tissue was fully released. You can see the white coral skeleton and the indents for where the polyps sat." fig-alt="Acropora cervicornis (staghorn coral). A top-down view of that same coral fragment after the tissue was fully released. You can see the white coral skeleton and the indents for where the polyps sat."}
+
+![](assets/photos/closeup/closeup-27.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). This coral fragment, on the other hand, fared much better and is growing past its cuts! You can see the thin layer of tissue extending and growing new polyps with tentacles as it continues to grow." fig-alt="Acropora cervicornis (staghorn coral). This coral fragment, on the other hand, fared much better and is growing past its cuts! You can see the thin layer of tissue extending and growing new polyps with tentacles as it continues to grow."}
+
+![](assets/photos/closeup/closeup-28.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). More coral growth!" fig-alt="Acropora cervicornis (staghorn coral). More coral growth!"}
+
+![](assets/photos/closeup/closeup-29.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). You can see the faint change from dark brown to light brown on the side; this is where the coral tissue has grown and extended down the side of the fragment, and has now grown new polyps!" fig-alt="Acropora cervicornis (staghorn coral). You can see the faint change from dark brown to light brown on the side; this is where the coral tissue has grown and extended down the side of the fragment, and has now grown new polyps!"}
+
+![](assets/photos/closeup/closeup-30.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-31.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral). After growing outwards, its time for the coral to start growing upwards! It is a branching coral after all." fig-alt="Acropora cervicornis (staghorn coral). After growing outwards, its time for the coral to start growing upwards! It is a branching coral after all."}
+
+![](assets/photos/closeup/closeup-32.jpg){group="closeup" loading="lazy" description="*Acropora cervicornis* (staghorn coral)" fig-alt="Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/closeup/closeup-33.jpg){group="closeup" loading="lazy"}
+
+![](assets/photos/closeup/closeup-34.jpg){group="closeup" loading="lazy"}
+
+![](assets/photos/closeup/closeup-35.jpg){group="closeup" loading="lazy"}
+
+![](assets/photos/closeup/closeup-36.jpg){group="closeup" loading="lazy"}
+
+:::
+
+## Fluorescence
+
+Corals have a natural fluorescence that can be seen using blue light and a yellow filter, and different species fluoresce differently. All of these corals are juveniles (less than 1 year old). Some of these photos were featured in a [Nightsea article](https://www.nightsea.com/articles/coral-restoration-mote-marine-laboratory/) about the coral restoration work at Mote Marine Laboratory.
+
+::: {.photo-grid}
+
+![](assets/photos/fluorescence/fluorescence-01.jpg){group="fluorescence" loading="lazy" description="*Orbicella faveolata*" fig-alt="Orbicella faveolata"}
+
+![](assets/photos/fluorescence/fluorescence-02.jpg){group="fluorescence" loading="lazy" description="*Orbicella faveolata*" fig-alt="Orbicella faveolata"}
+
+![](assets/photos/fluorescence/fluorescence-03.jpg){group="fluorescence" loading="lazy" description="*Acropora cervicornis*" fig-alt="Acropora cervicornis"}
+
+![](assets/photos/fluorescence/fluorescence-04.jpg){group="fluorescence" loading="lazy" description="*Acropora cervicornis*" fig-alt="Acropora cervicornis"}
+
+![](assets/photos/fluorescence/fluorescence-05.jpg){group="fluorescence" loading="lazy" description="*Acropora palmata*" fig-alt="Acropora palmata"}
+
+![](assets/photos/fluorescence/fluorescence-06.jpg){group="fluorescence" loading="lazy" description="*Acropora palmata*" fig-alt="Acropora palmata"}
+
+![](assets/photos/fluorescence/fluorescence-07.jpg){group="fluorescence" loading="lazy" description="*Porites astreoides*" fig-alt="Porites astreoides"}
+
+![](assets/photos/fluorescence/fluorescence-08.jpg){group="fluorescence" loading="lazy" description="*Porites astreoides*" fig-alt="Porites astreoides"}
+
+:::
+
+## Bonaire
+
+I traveled to Bonaire in August 2019 to volunteer with [Reef Renewal Foundation Bonaire](https://reefrenewalbonaire.org/), a non-profit coral reef restoration group. Bonaire is a scuba diver's paradise: you can shore-dive to some of the most amazing, healthy, fishy reefs I've ever seen.
+
+::: {.photo-grid}
+
+![](assets/photos/bonaire/bonaire-01.jpg){group="bonaire" loading="lazy" description="Beautiful coastline of Bonaire" fig-alt="Beautiful coastline of Bonaire"}
+
+![](assets/photos/bonaire/bonaire-02.jpg){group="bonaire" loading="lazy" description="I'm ready to go shore-diving!" fig-alt="I'm ready to go shore-diving!"}
+
+![](assets/photos/bonaire/bonaire-03.jpg){group="bonaire" loading="lazy" description="One of Reef Renewal's nursery trees for *Acropora cervicornis* (staghorn coral)" fig-alt="One of Reef Renewal's nursery trees for Acropora cervicornis (staghorn coral)"}
+
+![](assets/photos/bonaire/bonaire-04.jpg){group="bonaire" loading="lazy" description="A french angelfish!" fig-alt="A french angelfish!"}
+
+![](assets/photos/bonaire/bonaire-05.jpg){group="bonaire" loading="lazy" description="Orange-spotted filefish" fig-alt="Orange-spotted filefish"}
+
+![](assets/photos/bonaire/bonaire-06.jpg){group="bonaire" loading="lazy" description="Kristin going over the reef wall!" fig-alt="Kristin going over the reef wall!"}
+
+![](assets/photos/bonaire/bonaire-07.jpg){group="bonaire" loading="lazy" description="So. many. fish!!" fig-alt="So. many. fish!!"}
+
+![](assets/photos/bonaire/bonaire-08.jpg){group="bonaire" loading="lazy" description="A spotted moray!" fig-alt="A spotted moray!"}
+
+![](assets/photos/bonaire/bonaire-09.jpg){group="bonaire" loading="lazy" description="*Eusmilia fastigiata* (smooth flower coral)" fig-alt="Eusmilia fastigiata (smooth flower coral)"}
+
+![](assets/photos/bonaire/bonaire-10.jpg){group="bonaire" loading="lazy" description="A frogfish! These are so fun (and challenging) to find because they can blend in super well with sponges and corals. This one was thankfully failing at camouflaging." fig-alt="A frogfish! These are so fun (and challenging) to find because they can blend in super well with sponges and corals. This one was thankfully failing at camouflaging."}
+
+![](assets/photos/bonaire/bonaire-11.jpg){group="bonaire" loading="lazy" description="A porcupinefish!" fig-alt="A porcupinefish!"}
+
+![](assets/photos/bonaire/bonaire-12.jpg){group="bonaire" loading="lazy" description="*Orbicella faveolata*" fig-alt="Orbicella faveolata"}
+
+![](assets/photos/bonaire/bonaire-13.jpg){group="bonaire" loading="lazy" description="Josh and Kristin at Captain Don's memorial site" fig-alt="Josh and Kristin at Captain Don's memorial site"}
+
+![](assets/photos/bonaire/bonaire-14.jpg){group="bonaire" loading="lazy" description="Kristin and the reef wall (depth ~70 ft)" fig-alt="Kristin and the reef wall (depth ~70 ft)"}
+
+![](assets/photos/bonaire/bonaire-15.jpg){group="bonaire" loading="lazy" description="A bait ball full of fish!" fig-alt="A bait ball full of fish!"}
+
+![](assets/photos/bonaire/bonaire-16.jpg){group="bonaire" loading="lazy" description="Naturally we swam through it. Kristin in the middle of the bait ball!" fig-alt="Naturally we swam through it. Kristin in the middle of the bait ball!"}
+
+![](assets/photos/bonaire/bonaire-17.jpg){group="bonaire" loading="lazy" description="Josh in the bait ball" fig-alt="Josh in the bait ball"}
+
+![](assets/photos/bonaire/bonaire-18.jpg){group="bonaire" loading="lazy" description="*Porites porites*" fig-alt="Porites porites"}
+
+![](assets/photos/bonaire/bonaire-19.jpg){group="bonaire" loading="lazy" description="A peacock flounder!" fig-alt="A peacock flounder!"}
+
+![](assets/photos/bonaire/bonaire-20.jpg){group="bonaire" loading="lazy" description="Look at him!" fig-alt="Look at him!"}
+
+![](assets/photos/bonaire/bonaire-21.jpg){group="bonaire" loading="lazy" description="Spot the scorpionfish!" fig-alt="Spot the scorpionfish!"}
+
+![](assets/photos/bonaire/bonaire-22.jpg){group="bonaire" loading="lazy" description="A juvenile sea turtle!!! My favorite sea creature to see while diving." fig-alt="A juvenile sea turtle!!! My favorite sea creature to see while diving."}
+
+![](assets/photos/bonaire/bonaire-23.jpg){group="bonaire" loading="lazy" description="He did not want to hang with us." fig-alt="He did not want to hang with us."}
+
+![](assets/photos/bonaire/bonaire-24.jpg){group="bonaire" loading="lazy" description="He did swim by Kristin so she could get a cool pic." fig-alt="He did swim by Kristin so she could get a cool pic."}
+
+![](assets/photos/bonaire/bonaire-25.jpg){group="bonaire" loading="lazy" description="Goodbye!" fig-alt="Goodbye!"}
+
+![](assets/photos/bonaire/bonaire-26.jpg){group="bonaire" loading="lazy" description="*Pseudodiploria strigosa* (brain coral)" fig-alt="Pseudodiploria strigosa (brain coral)"}
+
+![](assets/photos/bonaire/bonaire-27.jpg){group="bonaire" loading="lazy" description="A green moray swimming by! Spooky." fig-alt="A green moray swimming by! Spooky."}
+
+![](assets/photos/bonaire/bonaire-28.jpg){group="bonaire" loading="lazy" description="A squid!" fig-alt="A squid!"}
+
+![](assets/photos/bonaire/bonaire-29.jpg){group="bonaire" loading="lazy" description="Garrett showing me the amazing natural patches of staghorn coral. I have never seen this much staghorn before!" fig-alt="Garrett showing me the amazing natural patches of staghorn coral. I have never seen this much staghorn before!"}
+
+![](assets/photos/bonaire/bonaire-30.jpg){group="bonaire" loading="lazy" description="A shy seahorse wrapped around a piece of coral." fig-alt="A shy seahorse wrapped around a piece of coral."}
+
+![](assets/photos/bonaire/bonaire-31.jpg){group="bonaire" loading="lazy" description="Still so shy! I thought he was algae at first." fig-alt="Still so shy! I thought he was algae at first."}
+
+![](assets/photos/bonaire/bonaire-32.jpg){group="bonaire" loading="lazy" description="Another sea turtle! He hung out with us a bit more." fig-alt="Another sea turtle! He hung out with us a bit more."}
+
+![](assets/photos/bonaire/bonaire-33.jpg){group="bonaire" loading="lazy" description="That side eye." fig-alt="That side eye."}
+
+![](assets/photos/bonaire/bonaire-34.jpg){group="bonaire" loading="lazy" description="More staghorn coral patches!" fig-alt="More staghorn coral patches!"}
+
+![](assets/photos/bonaire/bonaire-35.jpg){group="bonaire" loading="lazy" description="Look at all that staghorn." fig-alt="Look at all that staghorn."}
+
+![](assets/photos/bonaire/bonaire-36.jpg){group="bonaire" loading="lazy" description="Me, super excited to be with a patch of natural staghorn coral, the species I study and am interested in helping restore in Florida." fig-alt="Me, super excited to be with a patch of natural staghorn coral, the species I study and am interested in helping restore in Florida."}
+
+![](assets/photos/bonaire/bonaire-37.jpg){group="bonaire" loading="lazy" description="Another frogfish that wasn't doing the best job at hiding! He's sitting on an *Orbicella faveolata* coral." fig-alt="Another frogfish that wasn't doing the best job at hiding! He's sitting on an Orbicella faveolata coral."}
+
+![](assets/photos/bonaire/bonaire-38.jpg){group="bonaire" loading="lazy" description="Dive site: the Lake (that sand patch in the middle, surrounded by a circular reef). Featuring Aimee Young, infamous frogfish finder!" fig-alt="Dive site: the Lake (that sand patch in the middle, surrounded by a circular reef). Featuring Aimee Young, infamous frogfish finder!"}
+
+![](assets/photos/bonaire/bonaire-39.jpg){group="bonaire" loading="lazy" description="Orange-spotted filefish" fig-alt="Orange-spotted filefish"}
+
+![](assets/photos/bonaire/bonaire-40.jpg){group="bonaire" loading="lazy" description="*Colpophyllia natans* - spot the tiny blenny fish in the middle looking at me!" fig-alt="Colpophyllia natans - spot the tiny blenny fish in the middle looking at me!"}
+
+:::
+
+## Florida Keys
+
+The Florida Keys have some fun dive sites, and I've been lucky to visit a lot of them, from my internships at Mote Marine Laboratory and the Reef Environmental Education Foundation (REEF) to fun dives.
+
+::: {.photo-grid}
+
+![](assets/photos/keys/keys-01.jpg){group="keys" loading="lazy" description="Hanging corals on their new tree! (Photo by Dr. Hanna Koch)" fig-alt="Hanging corals on their new tree! (Photo by Dr. Hanna Koch)"}
+
+![](assets/photos/keys/keys-02.jpg){group="keys" loading="lazy" description="Myself and Sam Cook getting corals ready. (Photo by Dr. Hanna Koch)" fig-alt="Myself and Sam Cook getting corals ready. (Photo by Dr. Hanna Koch)"}
+
+![](assets/photos/keys/keys-03.jpg){group="keys" loading="lazy" description="Reef shark!" fig-alt="Reef shark!"}
+
+![](assets/photos/keys/keys-04.jpg){group="keys" loading="lazy" description="This shark was the highlight of my dive that day" fig-alt="This shark was the highlight of my dive that day"}
+
+![](assets/photos/keys/keys-05.jpg){group="keys" loading="lazy" description="Stony coral tissue loss disease actively spreading on this brain coral. A really sad sight, but unfortunately this disease has spread throughout the Florida Keys. Learn more about the disease by clicking on the photo." fig-alt="Stony coral tissue loss disease actively spreading on this brain coral. A really sad sight, but unfortunately this disease has spread throughout the Florida Keys. Learn more about the disease by clicking on the photo."}
+
+![](assets/photos/keys/keys-06.jpg){group="keys" loading="lazy" description="Another coral almost completely dead from stony coral tissue loss disease." fig-alt="Another coral almost completely dead from stony coral tissue loss disease."}
+
+![](assets/photos/keys/keys-07.jpg){group="keys" loading="lazy" description="Throughout the Keys, there are tagged coral colonies that are being monitored. The tag has information on it for scuba divers and snorkelers on how to submit photos of these corals! It is a great way for citizen science engagement and community monitoring - I believe AGRRA is the monitoring organization." fig-alt="Throughout the Keys, there are tagged coral colonies that are being monitored. The tag has information on it for scuba divers and snorkelers on how to submit photos of these corals! It is a great way for citizen science engagement and community monitoring - I believe AGRRA is the monitoring organization."}
+
+![](assets/photos/keys/keys-08.jpg){group="keys" loading="lazy" description="This coral was treated for stony coral tissue loss disease - you can tell by the white, thin paste that was applied to the diseased line. Scientists have found that applying this paste with an antibiotic helps some of these corals by stopping the spread of the disease." fig-alt="This coral was treated for stony coral tissue loss disease - you can tell by the white, thin paste that was applied to the diseased line. Scientists have found that applying this paste with an antibiotic helps some of these corals by stopping the spread of the disease."}
+
+![](assets/photos/keys/keys-09.jpg){group="keys" loading="lazy" description="Fun diving with Dr. Grace Klinges" fig-alt="Fun diving with Dr. Grace Klinges"}
+
+![](assets/photos/keys/keys-10.jpg){group="keys" loading="lazy" description="Blue parrotfish - did you know parrotfish chomp on corals in order to eat the algae? Then they digest the coral skeleton and poop out sand!" fig-alt="Blue parrotfish - did you know parrotfish chomp on corals in order to eat the algae? Then they digest the coral skeleton and poop out sand!"}
+
+![](assets/photos/keys/keys-11.jpg){group="keys" loading="lazy" description="A black grouper" fig-alt="A black grouper"}
+
+![](assets/photos/keys/keys-12.jpg){group="keys" loading="lazy" description="*Acropora palmata* outplants" fig-alt="Acropora palmata outplants"}
+
+![](assets/photos/keys/keys-13.jpg){group="keys" loading="lazy" description="Sarah Hamlyn monitoring coral outplants" fig-alt="Sarah Hamlyn monitoring coral outplants"}
+
+![](assets/photos/keys/keys-14.jpg){group="keys" loading="lazy" description="Photo by Melissa Heres - fun dive with Rainbow Reef in Key Largo!" fig-alt="Photo by Melissa Heres - fun dive with Rainbow Reef in Key Largo!"}
+
+![](assets/photos/keys/keys-15.jpg){group="keys" loading="lazy" description="Fun dive with JD Reinbott in Looe Key!" fig-alt="Fun dive with JD Reinbott in Looe Key!"}
+
+![](assets/photos/keys/keys-16.jpg){group="keys" loading="lazy" description="A giant *Orbicella faveolata*. I was shocked!!" fig-alt="A giant Orbicella faveolata. I was shocked!!"}
+
+![](assets/photos/keys/keys-17.jpg){group="keys" loading="lazy" description="JD posing with *Acropora palmata*" fig-alt="JD posing with Acropora palmata"}
+
+![](assets/photos/keys/keys-18.jpg){group="keys" loading="lazy" description="*Dendrogyra cylindrus*!!!! Super rare coral in the Keys at this point. It was so exciting to see a healthy colony!" fig-alt="Dendrogyra cylindrus!!!! Super rare coral in the Keys at this point. It was so exciting to see a healthy colony!"}
+
+![](assets/photos/keys/keys-19.jpg){group="keys" loading="lazy" description="Close-up on some *Orbicella faveolata*" fig-alt="Close-up on some Orbicella faveolata"}
+
+![](assets/photos/keys/keys-20.jpg){group="keys" loading="lazy" description="*Montastrea cavernosa*" fig-alt="Montastrea cavernosa"}
+
+![](assets/photos/keys/keys-21.jpg){group="keys" loading="lazy" description="*Orbicella faveolata* with a neon goby hanging out!" fig-alt="Orbicella faveolata with a neon goby hanging out!"}
+
+![](assets/photos/keys/keys-22.jpg){group="keys" loading="lazy" description="Scrawled filefish zooming by" fig-alt="Scrawled filefish zooming by"}
+
+![](assets/photos/keys/keys-23.jpg){group="keys" loading="lazy" description="A very friendly nurse shark" fig-alt="A very friendly nurse shark"}
+
+![](assets/photos/keys/keys-24.jpg){group="keys" loading="lazy" description="The nurse shark going for JD's fin!" fig-alt="The nurse shark going for JD's fin!"}
+
+![](assets/photos/keys/keys-25.jpg){group="keys" loading="lazy" description="Photo by JD Reinbott" fig-alt="Photo by JD Reinbott"}
+
+![](assets/photos/keys/keys-26.jpg){group="keys" loading="lazy" description="Photo by JD Reinbott" fig-alt="Photo by JD Reinbott"}
+
+![](assets/photos/keys/keys-27.jpg){group="keys" loading="lazy" description="The big kahuna" fig-alt="The big kahuna"}
+
+![](assets/photos/keys/keys-28.jpg){group="keys" loading="lazy" description="*Acropora palmata* and *Colpophyllia natans* growing together" fig-alt="Acropora palmata and Colpophyllia natans growing together"}
+
+![](assets/photos/keys/keys-29.jpg){group="keys" loading="lazy" description="*Acropora palmata*" fig-alt="Acropora palmata"}
+
+![](assets/photos/keys/keys-30.jpg){group="keys" loading="lazy" description="A giant tarpon that spooked me" fig-alt="A giant tarpon that spooked me"}
+
+![](assets/photos/keys/keys-31.jpg){group="keys" loading="lazy" description="A smooth trunkfish! My favorite fish, so cute" fig-alt="A smooth trunkfish! My favorite fish, so cute"}
+
+![](assets/photos/keys/keys-32.jpg){group="keys" loading="lazy" description="Rainbow parrotfish" fig-alt="Rainbow parrotfish"}
+
+![](assets/photos/keys/keys-33.jpg){group="keys" loading="lazy" description="*Acropora palmata* outplants from Coral Restoration Foundation" fig-alt="Acropora palmata outplants from Coral Restoration Foundation"}
+
+![](assets/photos/keys/keys-34.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-35.jpg){group="keys" loading="lazy" description="Scrawled cowfish" fig-alt="Scrawled cowfish"}
+
+![](assets/photos/keys/keys-36.jpg){group="keys" loading="lazy" description="Foureye butterflyfish - they always hang out in pairs!" fig-alt="Foureye butterflyfish - they always hang out in pairs!"}
+
+![](assets/photos/keys/keys-37.jpg){group="keys" loading="lazy" description="JD with some healthy *Acropora palmata*" fig-alt="JD with some healthy Acropora palmata"}
+
+![](assets/photos/keys/keys-38.jpg){group="keys" loading="lazy" description="JD with the sad state of the reef landscape - this is a lot of what you see nowadays." fig-alt="JD with the sad state of the reef landscape - this is a lot of what you see nowadays."}
+
+![](assets/photos/keys/keys-39.jpg){group="keys" loading="lazy" description="Close-up of some fluffy *Dendrogyra cylindrus*" fig-alt="Close-up of some fluffy Dendrogyra cylindrus"}
+
+![](assets/photos/keys/keys-40.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-41.jpg){group="keys" loading="lazy" description="Barracuda" fig-alt="Barracuda"}
+
+![](assets/photos/keys/keys-42.jpg){group="keys" loading="lazy" description="Stony coral tissue loss disease progression - I believe that nail was placed there to mark the line of the disease." fig-alt="Stony coral tissue loss disease progression - I believe that nail was placed there to mark the line of the disease."}
+
+![](assets/photos/keys/keys-43.jpg){group="keys" loading="lazy" description="Photo by Carlos Estape - REEF interns on our first fish ID dive! From left to right: Ali Treen, Ellie Place, me, Christy Ascione, Annie Innes-Gold, Sophie Costa" fig-alt="Photo by Carlos Estape - REEF interns on our first fish ID dive! From left to right: Ali Treen, Ellie Place, me, Christy Ascione, Annie Innes-Gold, Sophie Costa"}
+
+![](assets/photos/keys/keys-44.jpg){group="keys" loading="lazy" description="Photo by Allison Estape" fig-alt="Photo by Allison Estape"}
+
+![](assets/photos/keys/keys-45.jpg){group="keys" loading="lazy" description="Photo by Allison Estape - myself and Christy looking for some fish" fig-alt="Photo by Allison Estape - myself and Christy looking for some fish"}
+
+![](assets/photos/keys/keys-46.jpg){group="keys" loading="lazy" description="Photo by Carlos Estape" fig-alt="Photo by Carlos Estape"}
+
+![](assets/photos/keys/keys-47.jpg){group="keys" loading="lazy" description="Annie Innes-Gold and I on a clean-up dive against debris with Key Dives shop!" fig-alt="Annie Innes-Gold and I on a clean-up dive against debris with Key Dives shop!"}
+
+![](assets/photos/keys/keys-48.jpg){group="keys" loading="lazy" description="Got to try a double-hose regulator with the History of Diving Museum at Jules' Underwater Lodge!" fig-alt="Got to try a double-hose regulator with the History of Diving Museum at Jules' Underwater Lodge!"}
+
+![](assets/photos/keys/keys-49.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-50.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-51.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-52.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-53.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-54.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-55.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-56.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-57.jpg){group="keys" loading="lazy" description="Christ of the Abyss statue, Key Largo" fig-alt="Christ of the Abyss statue, Key Largo"}
+
+![](assets/photos/keys/keys-58.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-59.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-60.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-61.jpg){group="keys" loading="lazy" description="Sea turtle" fig-alt="Sea turtle"}
+
+![](assets/photos/keys/keys-62.jpg){group="keys" loading="lazy" description="Nurse shark" fig-alt="Nurse shark"}
+
+![](assets/photos/keys/keys-63.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-64.jpg){group="keys" loading="lazy"}
+
+![](assets/photos/keys/keys-65.jpg){group="keys" loading="lazy"}
+
+:::
+
+## Miami
+
+I moved to Miami in 2019 and have explored some cool shore dives and offshore sites.
+
+::: {.photo-grid}
+
+![](assets/photos/miami/miami-01.jpg){group="miami" loading="lazy" description="This damselfish was very protective of the staghorn coral colony (which did not look to be in good shape)." fig-alt="This damselfish was very protective of the staghorn coral colony (which did not look to be in good shape)."}
+
+![](assets/photos/miami/miami-02.jpg){group="miami" loading="lazy" description="bite marks from damselfish" fig-alt="bite marks from damselfish"}
+
+![](assets/photos/miami/miami-03.jpg){group="miami" loading="lazy" description="disease on *Acropora cervicornis*" fig-alt="disease on Acropora cervicornis"}
+
+![](assets/photos/miami/miami-04.jpg){group="miami" loading="lazy" description="*Montastrea cavernosa* (photo by Martine D'Alessandro)" fig-alt="Montastrea cavernosa (photo by Martine D'Alessandro)"}
+
+![](assets/photos/miami/miami-05.jpg){group="miami" loading="lazy" description="sampling a diseased coral" fig-alt="sampling a diseased coral"}
+
+![](assets/photos/miami/miami-06.jpg){group="miami" loading="lazy" description="nursery tree (Lirman Lab / Rescue a Reef)" fig-alt="nursery tree (Lirman Lab / Rescue a Reef)"}
+
+![](assets/photos/miami/miami-07.jpg){group="miami" loading="lazy" description="*Acropora cervicornis* nursery tree" fig-alt="acropora cervicornis nursery tree"}
+
+![](assets/photos/miami/miami-08.jpg){group="miami" loading="lazy" description="going down the line to a wreck off Fort Lauderdale" fig-alt="going down the line to a wreck off Fort Lauderdale"}
+
+![](assets/photos/miami/miami-09.jpg){group="miami" loading="lazy" description="Dania Beach aerojacks" fig-alt="Dania Beach aerojacks"}
+
+:::
+
+## Hawai'i
+
+Some photos from my first open-water dives in Hawai'i (2018).
+
+::: {.photo-grid}
+
+![](assets/photos/hawaii/hawaii-01.jpg){group="hawaii" loading="lazy" description="First open water dive in Honolulu (Diamond Head in the background)" fig-alt="First open water dive in Honolulu (Diamond Head in the background)"}
+
+![](assets/photos/hawaii/hawaii-02.jpg){group="hawaii" loading="lazy" description="First open water dive in Honolulu" fig-alt="First open water dive in Honolulu"}
+
+![](assets/photos/hawaii/hawaii-03.jpg){group="hawaii" loading="lazy" description="Diving in Kauai (spot the turtle!)" fig-alt="Diving in Kauai (spot the turtle!)"}
+
+![](assets/photos/hawaii/hawaii-04.jpg){group="hawaii" loading="lazy" description="First open water dive in Honolulu" fig-alt="First open water dive in Honolulu"}
+
+![](assets/photos/hawaii/hawaii-05.jpg){group="hawaii" loading="lazy" description="First open water dive in Honolulu" fig-alt="First open water dive in Honolulu"}
+
+![](assets/photos/hawaii/hawaii-06.jpg){group="hawaii" loading="lazy" description="Diving in Kauai" fig-alt="Diving in Kauai"}
+
+:::
+
+:::
