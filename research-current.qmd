@@ -16,6 +16,7 @@ Large numbers of corals are being outplanted onto Florida's Coral Reef, but many
 - **Coral-Baited Remote Underwater Video Systems (C-BRUVS).** Documenting fish corallivory on restored corals in Florida with underwater video.
 - **A predation pressure index.** Co-PI on a Florida Department of Environmental Protection meta-analysis integrating field data to quantify corallivorous fish impacts on outplant success through a spatiotemporal predation pressure index. [<i class="bi bi-file-earmark-pdf"></i> Read the final report](https://floridadep.gov/sites/default/files/DeMerlis_DEP_Final%20Report.pdf)
 - **Predictive tools and experimental validation.** As PI on a follow-up DEP project, I am integrating predation data into predictive tools and testing them in the field.
+
 ## Coral-Baited Remote Underwater Video Systems (C-BRUVS)
 
 ::::: {.photo-row .photo-banner}
