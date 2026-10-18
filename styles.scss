@@ -291,6 +291,54 @@ h2 {
   border-bottom: 2px solid $aqua;
 }
 
+.logo-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem 3rem;
+  margin-top: -5rem;
+  margin-bottom: 2rem;
+  padding: 1.1rem 1.5rem;
+  background: #0b1e3a;
+
+  a {
+    display: block;
+    opacity: 0.92;
+    transition: opacity 0.2s ease;
+  }
+
+  a:hover {
+    opacity: 1;
+  }
+
+  img {
+    display: block;
+    height: 48px;
+    width: auto;
+  }
+
+  img.logo-tall {
+    height: 72px;
+    margin: -12px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .logo-bar {
+    gap: 1rem 1.75rem;
+  }
+
+  .logo-bar img {
+    height: 34px;
+  }
+
+  .logo-bar img.logo-tall {
+    height: 52px;
+    margin: -9px 0;
+  }
+}
+
 .research-meta {
   margin: 0 0 1.5rem;
   padding: 0.9rem 1.2rem;

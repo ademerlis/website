@@ -17,11 +17,11 @@ website:
       - text: Research
         menu:
           - href: research-current.qmd
-            text: "Coral predation & restoration (Current)"
+            text: "Corallivory and outplant survival"
           - href: research-phd.qmd
-            text: "Coral thermal tolerance (PhD)"
+            text: "Thermal priming and molecular stress responses"
           - href: research-mote.qmd
-            text: "Mote Marine Laboratory"
+            text: "Coral growth, disease, and reproduction"
       - href: publications.qmd
         text: Publications
       - href: press.qmd

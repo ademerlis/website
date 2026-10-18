@@ -1,8 +1,15 @@
 ---
-title: "Enhancing coral thermal tolerance"
-subtitle: "PhD research · University of Miami, 2019–2024"
+title: "Thermal priming and molecular stress responses"
 lightbox: true
 ---
+
+```{=html}
+<div class="logo-bar column-screen">
+  <a href="https://earth.miami.edu/" title="University of Miami Rosenstiel School"><img src="assets/logos/rosenstiel.svg" alt="University of Miami Rosenstiel School"></a>
+  <a href="https://www.aoml.noaa.gov/coral-reef-ecosystems/" title="NOAA Atlantic Oceanographic and Meteorological Laboratory"><img src="assets/logos/noaa.png" alt="NOAA Atlantic Oceanographic and Meteorological Laboratory"></a>
+  <a href="https://www.cnidimmunitylab.com/" title="Cnidarian Immunity Lab"><img class="logo-tall" src="assets/logos/cnidarian-immunity-lab.png" alt="Cnidarian Immunity Lab"></a>
+</div>
+```
 
 ::: {.research-meta}
 [Degree]{.meta-label} PhD, Marine Biology and Ecology

@@ -1,8 +1,13 @@
 ---
-title: "Mote Marine Laboratory"
-subtitle: "Research internships · Summerland Key, FL, 2019"
+title: "Coral growth, disease, and reproduction"
 lightbox: true
 ---
+
+```{=html}
+<div class="logo-bar column-screen">
+  <a href="https://mote.org/" title="Mote Marine Laboratory & Aquarium"><img src="assets/logos/mote.png" alt="Mote Marine Laboratory & Aquarium"></a>
+</div>
+```
 
 ::: {.research-meta}
 [Positions]{.meta-label} Coral Health and Disease Intern (Feb–May 2019)\

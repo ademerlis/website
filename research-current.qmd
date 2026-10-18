@@ -1,8 +1,14 @@
 ---
-title: "Coral predation and restoration"
-subtitle: "Current research · University of Miami Rosenstiel School"
+title: "Corallivory and outplant survival"
 lightbox: true
 ---
+
+```{=html}
+<div class="logo-bar column-screen">
+  <a href="https://earth.miami.edu/" title="University of Miami Rosenstiel School"><img src="assets/logos/rosenstiel.svg" alt="University of Miami Rosenstiel School"></a>
+  <a href="https://rescueareef.earth.miami.edu/" title="Rescue a Reef"><img class="logo-tall" src="assets/logos/rescue-a-reef-badge.png" alt="Rescue a Reef"></a>
+</div>
+```
 
 ::: {.research-meta}
 [Positions]{.meta-label} Assistant Scientist (2026–present)\
