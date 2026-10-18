@@ -6,5 +6,5 @@
 **/*.quarto_ipynb
 assets/profilepicture.jpg
 assets/*.docx
-assets/research/current/*.JPG
-assets/research/current/*.png
+assets/research/current/Deployment *
+assets/research/current/PAST CCC*

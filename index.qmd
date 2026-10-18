@@ -41,3 +41,39 @@ I'm committed to open science: my code lives on [GitHub](https://github.com/adem
 :::
 
 :::
+
+::: {.highlights}
+## Research highlights
+
+```{=html}
+<div class="highlight-grid">
+  <a class="highlight" href="research-current.html">
+    <img src="assets/research/current/deployment4-oasis.jpg" alt="A C-BRUVS camera recording outplanted corals">
+    <div class="highlight-body">
+      <span class="highlight-tag">Current</span>
+      <h3>Corallivory and outplant survival</h3>
+      <p>Spatiotemporal patterns of fish predation on restored corals, and predictive models of predation pressure to inform restoration site selection.</p>
+      <span class="highlight-more">Learn more <i class="bi bi-arrow-right"></i></span>
+    </div>
+  </a>
+  <a class="highlight" href="research-phd.html">
+    <img src="assets/research/phd/phd-03.jpg" alt="Staghorn coral fragments in experimental tanks">
+    <div class="highlight-body">
+      <span class="highlight-tag">PhD</span>
+      <h3>Thermal priming and molecular stress responses</h3>
+      <p>Transcriptomic mechanisms of stress-hardening, acclimatization to thermally variable environments, and species-specific gene expression responses to heat stress.</p>
+      <span class="highlight-more">Learn more <i class="bi bi-arrow-right"></i></span>
+    </div>
+  </a>
+  <a class="highlight" href="research-mote.html">
+    <img src="assets/research/mote/mote-11.jpg" alt="Diver at a coral restoration nursery tree">
+    <div class="highlight-body">
+      <span class="highlight-tag">2019</span>
+      <h3>Coral growth, disease, and reproduction</h3>
+      <p>3D quantification of microfragment growth, stony coral tissue loss disease, and assisted sexual reproduction of <em>Acropora cervicornis</em> at Mote Marine Laboratory.</p>
+      <span class="highlight-more">Learn more <i class="bi bi-arrow-right"></i></span>
+    </div>
+  </a>
+</div>
+```
+:::
