@@ -1,17 +1,12 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Last updated October 17, 2026"
 ---
 
-[Download my CV (PDF)](cv.pdf){.btn .btn-primary}
+[<i class="bi bi-download"></i> Download CV (PDF)](assets/2026_DeMerlis_CV.pdf){.btn .btn-primary}
 
-## Education
-
-**PhD, Marine Biology and Ecology** | University of Miami | *in progress*
-
-## Research Experience
-
-## Awards and Funding
-
-## Teaching
-
-## Presentations
+```{=html}
+<object class="cv-embed" data="assets/2026_DeMerlis_CV.pdf" type="application/pdf">
+  <p>Your browser can't display the PDF here. <a href="assets/2026_DeMerlis_CV.pdf">Download it instead.</a></p>
+</object>
+```

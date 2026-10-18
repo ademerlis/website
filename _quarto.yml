@@ -3,19 +3,30 @@ project:
   output-dir: _site
   resources:
     - CNAME
-    - assets/
+    - assets/bg.jpg
+    - assets/2026_DeMerlis_CV.pdf
+    - assets/video/
 
 website:
-  title: "Allyson DeMerlis"
+  title: "Allyson DeMerlis, PhD"
   site-url: https://allysondemerlis.com
+  favicon: assets/headshot.jpg
   navbar:
     left:
-      - href: research.qmd
-        text: Research
+      - text: Research
+        menu:
+          - href: research.qmd#postdoc
+            text: "Coral predation & restoration (Current)"
+          - href: research.qmd#phd
+            text: "Coral thermal tolerance (PhD)"
+          - href: research.qmd#mote
+            text: "Mote Marine Laboratory"
       - href: publications.qmd
         text: Publications
+      - href: press.qmd
+        text: Press
       - href: cv.qmd
-        text: Curriculum Vitae
+        text: CV
       - href: https://ademerlis.github.io
         text: Lab Notebook
       - href: contact.qmd
@@ -25,11 +36,27 @@ website:
         href: mailto:allyson.demerlis@gmail.com
       - icon: github
         href: https://github.com/ademerlis
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=XL3gr58AAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/allyson-demerlis/
+      - icon: instagram
+        href: https://www.instagram.com/dr_ocean_ally/
+      - icon: youtube
+        href: https://www.youtube.com/@dr_ocean_ally
   page-footer:
     left: "© 2026 Allyson DeMerlis · Built with [Quarto](https://quarto.org)"
     right:
       - icon: github
         href: https://github.com/ademerlis
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=XL3gr58AAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/allyson-demerlis/
+      - icon: instagram
+        href: https://www.instagram.com/dr_ocean_ally/
+      - icon: youtube
+        href: https://www.youtube.com/@dr_ocean_ally
       - text: Contact
         href: contact.qmd
 
@@ -37,3 +64,5 @@ format:
   html:
     theme: [flatly, styles.scss]
     toc: false
+    title-block-banner: assets/bg.jpg
+    title-block-banner-color: "#ffffff"
